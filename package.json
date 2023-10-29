@@ -2,7 +2,7 @@
   "name": "ra16-2.1-events-state-filter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alekseyad.github.io/ra16-2.1-events-state-filter/",
+  "homepage": "https://garbuzenko.github.io/filter/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
